@@ -1,0 +1,10 @@
+.row{
+  background-color: #a1b5cb;
+  padding: 20px;
+
+}
+.circle-progress {
+    position: relative;
+    display: flex;
+    justify-content: space-around;
+}
